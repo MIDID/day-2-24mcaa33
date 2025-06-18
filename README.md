@@ -1,6 +1,4 @@
-Here’s a polished and well-structured version of your GitHub README that will make your project presentation more professional and visually appealing:
 
----
 
 # 📚 KJC-SDC-TASKS
 
